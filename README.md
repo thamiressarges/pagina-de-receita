@@ -20,7 +20,7 @@ Além disso, é um exercício de **organização de conteúdo culinário** em fo
 
 ## 🖼️ Imagens do Projeto
 
-![Captura de tela do projeto](./images/pagina_de_receitas)
+![Captura de tela do projeto](./images/pagina_de_receitas.png)
 
 ---
 
